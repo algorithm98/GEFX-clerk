@@ -9,8 +9,8 @@ import Secured from "@/components/secured";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Globalempirefx | Prince Praklap - THCL",
-  description: "Created by Prakalp Hodavadekar at THCL-TSTECH",
+  title: "Globalempirefx | Home",
+  description: "The Only Global Platform For You",
 };
 
 export default function RootLayout({
